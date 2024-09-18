@@ -1,0 +1,29 @@
+stages:
+  - webhook
+  - build
+
+update:
+  stage: webhook
+  variables:
+    DEPLOY_CURL_COMMAND: 'curl -H "Content-Type: application/json" --data @data.json https://gitlab.bsc.es/inb/iechor/software-observatory/license-mapping-api/webhooks'
+  script:
+    - 'eval "$DEPLOY_CURL_COMMAND"'
+  rules:
+    - changes:
+      - licenses/*
+      when: on_success
+
+
+docker-build-master:
+  # Official docker image.
+  image: docker:latest
+  stage: build
+  services:
+    - docker:dind
+  before_script:
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+  script:
+    - docker build --pull -t "$CI_REGISTRY_IMAGE" .
+    - docker push "$CI_REGISTRY_IMAGE"
+  only:
+    - main
