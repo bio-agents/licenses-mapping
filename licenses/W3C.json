@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/W3C.html",
-    "licenseId": "W3C",
-    "name": "W3C Software Notice and License (2002-12-31)",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html",
-        "https://opensource.org/licenses/W3C"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3c166b2001b5d0e5fe53f916830422ddb2fddc15563f2125331996336dd81a5
+size 378

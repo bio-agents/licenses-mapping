@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/MIT-Wu.html",
-    "licenseId": "MIT-Wu",
-    "name": "MIT Tom Wu Variant",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/chromium/octane/blob/master/crypto.js"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:306c5fc3e824bb173de0b38a474a724fd170ab62ed45d5dadaa6697f83db7624
+size 296

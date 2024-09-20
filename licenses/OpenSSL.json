@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OpenSSL.html",
-    "licenseId": "OpenSSL",
-    "name": "OpenSSL License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.openssl.org/source/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b394b7621b908bad8c4227177a399330677f11cc65ee36d1fe94b89801bdd8b0
+size 281

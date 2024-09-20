@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CC-BY-SA-2.0-UK.html",
-    "licenseId": "CC-BY-SA-2.0-UK",
-    "name": "Creative Commons Attribution Share Alike 2.0 England and Wales",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://creativecommons.org/licenses/by-sa/2.0/uk/legalcode"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:525f0f2f7ea192c017f82646d7fbeeb98fd001a30390ae42b4fec660e77268d9
+size 361

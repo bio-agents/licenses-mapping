@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SPL-1.0.html",
-    "licenseId": "SPL-1.0",
-    "name": "Sun Public License v1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/SPL-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c58c7a5932840f0b27e610920d647d85cc268c6562fa27b9549ad164e85a11a
+size 285

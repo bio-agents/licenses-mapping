@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GPL-3.0-with-autoconf-exception.html",
-    "licenseId": "GPL-3.0-with-autoconf-exception",
-    "name": "GNU General Public License v3.0 w/Autoconf exception",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "https://www.gnu.org/licenses/autoconf-exception-3.0.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bedcec1cb2c70c743c2d302f09d660e393ee14d5c39b084c4d2151a506db9c8e
+size 379

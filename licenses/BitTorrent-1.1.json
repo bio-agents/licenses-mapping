@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BitTorrent-1.1.html",
-    "licenseId": "BitTorrent-1.1",
-    "name": "BitTorrent Open Source License v1.1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://directory.fsf.org/wiki/License:BitTorrentOSL1.1"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7447db84f98210bed55eb3898f22d532a76b5b4201116b2a1ea5e51913415ec5
+size 327

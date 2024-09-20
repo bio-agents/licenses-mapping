@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/LiLiQ-P-1.1.html",
-    "licenseId": "LiLiQ-P-1.1",
-    "name": "Licence Libre du Qu\u00e9bec \u2013 Permissive version 1.1",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://forge.gouv.qc.ca/licence/fr/liliq-v1-1/",
-        "http://opensource.org/licenses/LiLiQ-P-1.1"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:194ba3d858692347f77ab5a1e8d8d379775c065b6637226ab7bf81ef2b6bb535
+size 390

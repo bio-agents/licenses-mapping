@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BSD-2-Clause-Views.html",
-    "licenseId": "BSD-2-Clause-Views",
-    "name": "BSD 2-Clause with views sentence",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.freebsd.org/copyright/freebsd-license.html",
-        "https://people.freebsd.org/~ivoras/wine/patch-wine-nvidia.sh",
-        "https://github.com/protegeproject/protege/blob/master/license.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3d234e5db0e299084219eae613fb9c9be5cf4b39e35b1af623f31faa0980600
+size 480

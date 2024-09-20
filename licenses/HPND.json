@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/HPND.html",
-    "licenseId": "HPND",
-    "name": "Historical Permission Notice and Disclaimer",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/HPND"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fab0237525034da2340d0b15266b2d93adf7672501c76c5bcdfaa0f366351a3e
+size 296

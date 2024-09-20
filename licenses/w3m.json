@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/w3m.html",
-    "licenseId": "w3m",
-    "name": "w3m License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/tats/w3m/blob/master/COPYING"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dc8454e0dd49368efdb23c25c9b45bef3f9fe047b5305e12c6c8abffae90dd5
+size 274

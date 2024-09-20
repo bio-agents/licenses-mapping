@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Minpack.html",
-    "licenseId": "Minpack",
-    "name": "Minpack License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.netlib.org/minpack/disclaimer",
-        "https://gitlab.com/libeigen/eigen/-/blob/master/COPYING.MINPACK"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a918208de7ae74e7ad469bb60aa8b6c447c5a5095a25efe01ccf3459acb93a9
+size 354

@@ -1,14 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/EPL-1.0.html",
-    "licenseId": "EPL-1.0",
-    "name": "Eclipse Public License 1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.eclipse.org/legal/epl-v10.html",
-        "https://opensource.org/licenses/EPL-1.0"
-    ],
-    "synonyms": [
-        "EPL(>=1.0)"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:46ee9325dd157ffadcff48e8c20619afa6161b46af28aee7e60b47690387c4d6
+size 367

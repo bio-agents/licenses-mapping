@@ -1,9 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SchemeReport.html",
-    "licenseId": "SchemeReport",
-    "name": "Scheme Language Report License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0e4625790b753bcd15a294198b9ce963923a995046c41ae361566a00ed52202
+size 248

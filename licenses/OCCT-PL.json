@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OCCT-PL.html",
-    "licenseId": "OCCT-PL",
-    "name": "Open CASCADE Technology Public License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.opencascade.com/content/occt-public-license"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b7e31c38f33b2aea7447ec8f4b37f57eb90c3f990b8dc1b6624d9a0e38aeaa2
+size 316

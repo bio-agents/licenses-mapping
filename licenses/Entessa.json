@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Entessa.html",
-    "licenseId": "Entessa",
-    "name": "Entessa Public License v1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/Entessa"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:39ee2996bfd03208a1d0e0de592d8166051bfb5ce612dbc881d5a312250c8003
+size 289

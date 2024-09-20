@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CAL-1.0.html",
-    "licenseId": "CAL-1.0",
-    "name": "Cryptographic Autonomy License 1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://cryptographicautonomylicense.com/license-text.html",
-        "https://opensource.org/licenses/CAL-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ec52288b2064ccaec139a60b4f3791a2a7188f2c00433ca01d8bacfcc0d4a2b
+size 365

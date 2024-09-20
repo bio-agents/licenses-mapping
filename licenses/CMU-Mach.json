@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CMU-Mach.html",
-    "licenseId": "CMU-Mach",
-    "name": "CMU Mach License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.cs.cmu.edu/~410/licenses.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:91eeb63f82f03e1a9e3d17bc7092049ea2e30791ce3bed7b0133862d33740f3c
+size 283

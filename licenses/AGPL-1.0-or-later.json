@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/AGPL-1.0-or-later.html",
-    "licenseId": "AGPL-1.0-or-later",
-    "name": "Affero General Public License v1.0 or later",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.affero.org/oagpl.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:746d1e19d4165d2f255644c017b365ebe81b286fc918a108fb442f158c4a8e26
+size 319

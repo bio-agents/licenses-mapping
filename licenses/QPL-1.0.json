@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/QPL-1.0.html",
-    "licenseId": "QPL-1.0",
-    "name": "Q Public License 1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://doc.qt.nokia.com/3.3/license.html",
-        "https://opensource.org/licenses/QPL-1.0",
-        "https://doc.qt.io/archives/3.3/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1bb03fd2495a0709dfdfeef72369fee10f712bae5debd3a9d48210034e79166
+size 389

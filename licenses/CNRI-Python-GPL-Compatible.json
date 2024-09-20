@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CNRI-Python-GPL-Compatible.html",
-    "licenseId": "CNRI-Python-GPL-Compatible",
-    "name": "CNRI Python Open Source GPL Compatible License Agreement",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.python.org/download/releases/1.6.1/download_win/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2628225dd20cc45416ca3662bed82ffe20736db624c2c9ec28296b739f037edc
+size 377

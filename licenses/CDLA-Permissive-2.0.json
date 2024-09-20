@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CDLA-Permissive-2.0.html",
-    "licenseId": "CDLA-Permissive-2.0",
-    "name": "Community Data License Agreement Permissive 2.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://cdla.dev/permissive-2-0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:822e781ad4be22774aa215cd72ede0a6df81ca65b7ad35f28994386d0b5ead96
+size 326

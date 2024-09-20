@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OLDAP-2.4.html",
-    "licenseId": "OLDAP-2.4",
-    "name": "Open LDAP Public License v2.4",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=cd1284c4a91a8a380d904eee68d1583f989ed386"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:653515a312311b2eef4a8dde41bd9cb41d433d6957a0d9a43c11b272592b6825
+size 373

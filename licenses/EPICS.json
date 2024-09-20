@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/EPICS.html",
-    "licenseId": "EPICS",
-    "name": "EPICS Open License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://epics.anl.gov/license/open.php"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8f72e2f33534328799b9b125c500e6384fa7d5742c6218d52e2d0ceab3e08a0
+size 276

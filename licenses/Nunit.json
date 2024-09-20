@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Nunit.html",
-    "licenseId": "Nunit",
-    "name": "Nunit License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "https://fedoraproject.org/wiki/Licensing/Nunit"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed3b2e5462f9302da6ac5c653b6727cd9fd340a0c14dea1b2a307f51505c81fa
+size 278

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/copyleft-next-0.3.1.html",
-    "licenseId": "copyleft-next-0.3.1",
-    "name": "copyleft-next 0.3.1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/copyleft-next/copyleft-next/blob/master/Releases/copyleft-next-0.3.1"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a39a43427b5083281ca28bdf102f445947fa475fcdc14d443299febfba112cae
+size 354

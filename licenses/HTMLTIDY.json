@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/HTMLTIDY.html",
-    "licenseId": "HTMLTIDY",
-    "name": "HTML Tidy License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/htacg/tidy-html5/blob/next/README/LICENSE.md"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:32c99ab6a9d52f35723f4fd0dbc6bebc4302734ef685189dc7044f6d0493134d
+size 306

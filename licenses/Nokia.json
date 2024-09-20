@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Nokia.html",
-    "licenseId": "Nokia",
-    "name": "Nokia Open Source License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/nokia"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:37bf04370cb9c27f8d377a2b37eac0a2f1617a8d462388ce787b50d627b17a4a
+size 281

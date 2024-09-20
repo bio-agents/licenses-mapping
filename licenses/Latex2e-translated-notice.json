@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Latex2e-translated-notice.html",
-    "licenseId": "Latex2e-translated-notice",
-    "name": "Latex2e with translated notice permission",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n74"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5af21f88437e969f48ecdbfe94e61aeb95f25e82bc4240da6e48bd44c922430
+size 414

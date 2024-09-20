@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/dvipdfm.html",
-    "licenseId": "dvipdfm",
-    "name": "dvipdfm License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://fedoraproject.org/wiki/Licensing/dvipdfm"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:37c87c86308e41038a2f7997c02fdec87ae6b990af70454437d39c478bf7263a
+size 287

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GLWTPL.html",
-    "licenseId": "GLWTPL",
-    "name": "Good Luck With That Public License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/me-shaon/GLWTPL/commit/da5f6bc734095efbacb442c0b31e33a65b9d6e85"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:61e4031d587481d5706113b9d9936863fac5d7ff85907011ccb36bb27d48d880
+size 338

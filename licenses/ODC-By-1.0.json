@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/ODC-By-1.0.html",
-    "licenseId": "ODC-By-1.0",
-    "name": "Open Data Commons Attribution License v1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opendatacommons.org/licenses/by/1.0/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c01c143aecd7a8bd8b4669f71f4b0b4a30f0deb61fb2df117f28832a9d69df8
+size 316

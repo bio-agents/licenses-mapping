@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CNRI-Jython.html",
-    "licenseId": "CNRI-Jython",
-    "name": "CNRI Jython License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.jython.org/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3647452163eebf2593f232783526dceb8681e836ffeceb902a6183748a1c9f5a
+size 285

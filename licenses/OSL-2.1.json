@@ -1,14 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OSL-2.1.html",
-    "licenseId": "OSL-2.1",
-    "name": "Open Software License 2.1",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://web.archive.org/web/20050212003940/http://www.rosenlaw.com/osl21.htm",
-        "https://opensource.org/licenses/OSL-2.1"
-    ],
-    "synonyms": [
-        "Open Software License v2.1"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccabe1aa4f32bf26a89aa947914fec1d5ccac0899634b5d548fd55e5a0f3d9de
+size 416

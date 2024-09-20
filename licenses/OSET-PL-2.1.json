@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OSET-PL-2.1.html",
-    "licenseId": "OSET-PL-2.1",
-    "name": "OSET Public License version 2.1",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.osetfoundation.org/public-license",
-        "https://opensource.org/licenses/OPL-2.1"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:27370503bb922af7bf2800d63b6735cd0f089b667c3bbda015eb6042c690081e
+size 357

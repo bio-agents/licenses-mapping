@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Condor-1.1.html",
-    "licenseId": "Condor-1.1",
-    "name": "Condor Public License v1.1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://research.cs.wisc.edu/condor/license.html#condor",
-        "http://web.archive.org/web/20111123062036/http://research.cs.wisc.edu/condor/license.html#condor"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd7496ab3e3bb7e96f3d0d226ac2fb50917714d359f6020a4f53310e0cbb2f80
+size 418

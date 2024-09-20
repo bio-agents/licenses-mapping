@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Artistic-1.0-cl8.html",
-    "licenseId": "Artistic-1.0-cl8",
-    "name": "Artistic License 1.0 w/clause 8",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/Artistic-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a112684ed80d6cbabca982d765a54dd389330fc35a9e5bac5564bd67af89829b
+size 316

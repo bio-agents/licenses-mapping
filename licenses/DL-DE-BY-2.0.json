@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/DL-DE-BY-2.0.html",
-    "licenseId": "DL-DE-BY-2.0",
-    "name": "Data licence Germany \u2013 attribution \u2013 version 2.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.govdata.de/dl-de/by-2-0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:119b698c888a578878349b421cab66765c30b164cffa14f2514774b410fb8dea
+size 327

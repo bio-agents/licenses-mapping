@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GFDL-1.1-no-invariants-only.html",
-    "licenseId": "GFDL-1.1-no-invariants-only",
-    "name": "GNU Free Documentation License v1.1 only - no invariants",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.gnu.org/licenses/old-licenses/fdl-1.1.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8815b249763314a672708a188d741eb9bbcabb586c505f10ce341826d054b80b
+size 373

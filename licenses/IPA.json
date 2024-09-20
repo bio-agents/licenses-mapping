@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/IPA.html",
-    "licenseId": "IPA",
-    "name": "IPA Font License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/IPA"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a349a8349e0ea2a061e5bf7dcee46a4fdfc4150419d81096288b4bf542206683
+size 266

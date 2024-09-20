@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Naumen.html",
-    "licenseId": "Naumen",
-    "name": "Naumen Public License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/Naumen"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9ff615aaef97f87d2a1632569bc07b62e39199876d0f34dbadcc30906a03e57
+size 280

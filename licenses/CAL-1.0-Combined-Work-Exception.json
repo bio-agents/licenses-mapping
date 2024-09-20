@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CAL-1.0-Combined-Work-Exception.html",
-    "licenseId": "CAL-1.0-Combined-Work-Exception",
-    "name": "Cryptographic Autonomy License 1.0 (Combined Work Exception)",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://cryptographicautonomylicense.com/license-text.html",
-        "https://opensource.org/licenses/CAL-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b2f96cfe1efb2f8f07a0308b3625e8e1c72e8da7dffc5ae5d6578aaeb1e4025
+size 439

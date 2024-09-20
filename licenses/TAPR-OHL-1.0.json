@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/TAPR-OHL-1.0.html",
-    "licenseId": "TAPR-OHL-1.0",
-    "name": "TAPR Open Hardware License v1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.tapr.org/OHL"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6880a527e51fe3ca36683be8fbbf907efd2178873a5fe188c27408f22ae67716
+size 289

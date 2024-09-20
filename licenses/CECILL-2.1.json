@@ -1,14 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CECILL-2.1.html",
-    "licenseId": "CECILL-2.1",
-    "name": "CeCILL Free Software License Agreement v2.1",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html"
-    ],
-    "synonyms": [
-        "CeCiLL 2.1",
-        "CeCILL 2.1"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3661a8c1138e245f0bbb8d1db0fa0e75d23dcb7975f211c8ff870b0324a718b3
+size 379

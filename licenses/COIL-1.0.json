@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/COIL-1.0.html",
-    "licenseId": "COIL-1.0",
-    "name": "Copyfree Open Innovation License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://coil.apotheon.org/plaintext/01.0.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4737878a35a6a13c5c1d1772eaf55398ce4e37d5d402ae5b5944e01e27531fef
+size 302

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/checkmk.html",
-    "licenseId": "checkmk",
-    "name": "Checkmk License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/libcheck/check/blob/master/checkmk/checkmk.in"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fac7602ed1e08dd28de5454d693d834954d365aaf06e9abcd92a42e0933d960
+size 303

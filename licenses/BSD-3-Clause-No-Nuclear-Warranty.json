@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-Warranty.html",
-    "licenseId": "BSD-3-Clause-No-Nuclear-Warranty",
-    "name": "BSD 3-Clause No Nuclear Warranty",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://jogamp.org/git/?p=gluegen.git;a=blob_plain;f=LICENSE.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a5b568ac5c0a53e49c88c14dba4d09860fd435df8f609e433ebe3bf84736d37
+size 370

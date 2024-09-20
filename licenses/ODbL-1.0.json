@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/ODbL-1.0.html",
-    "licenseId": "ODbL-1.0",
-    "name": "Open Data Commons Open Database License v1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.opendatacommons.org/licenses/odbl/1.0/",
-        "https://opendatacommons.org/licenses/odbl/1-0/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:68fcebb0c3b01220ff3eebb678b53b20744248e3e468dc0d3e5733fc7067d487
+size 377

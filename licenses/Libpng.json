@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Libpng.html",
-    "licenseId": "Libpng",
-    "name": "libpng License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.libpng.org/pub/png/src/libpng-LICENSE.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0b7a55c126dd1f4a219c5591d2f37edb24405d649b221b6e5b901af7fe22420
+size 288

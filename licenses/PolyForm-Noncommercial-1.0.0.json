@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/PolyForm-Noncommercial-1.0.0.html",
-    "licenseId": "PolyForm-Noncommercial-1.0.0",
-    "name": "PolyForm Noncommercial License 1.0.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://polyformproject.org/licenses/noncommercial/1.0.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fd43267d80bb6ae56081a736bdc5e5eda47b062d1751a63c704a92af7f47589
+size 358

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/NOSL.html",
-    "licenseId": "NOSL",
-    "name": "Netizen Open Source License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://bits.netizen.com.au/licenses/NOSL/nosl.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0331705aad41c5b7a6fab0e214fd5fa2c1b713e0f8962b929e7fa29024eaac3
+size 294

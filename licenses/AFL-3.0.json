@@ -1,15 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/AFL-3.0.html",
-    "licenseId": "AFL-3.0",
-    "name": "Academic Free License v3.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.rosenlaw.com/AFL3.0.htm",
-        "https://opensource.org/licenses/afl-3.0"
-    ],
-    "synonyms": [
-        "Academic Free License version 3.0",
-        "AFL-3.0-only"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a9fe7c5723b38a9be8023c225cb4f4619ecec290dd5c1faad2905629eed6e06
+size 407

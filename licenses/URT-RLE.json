@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/URT-RLE.html",
-    "licenseId": "URT-RLE",
-    "name": "Utah Raster Agentkit Run Length Encoded License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/converter/other/pnmtorle.c",
-        "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/converter/other/rletopnm.c"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b10caaf85a92f4a7fed31c5c55eaa1cc8645e121d2cf2e1a468f6aa12b98f4d8
+size 457

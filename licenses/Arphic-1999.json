@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Arphic-1999.html",
-    "licenseId": "Arphic-1999",
-    "name": "Arphic Public License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://ftp.gnu.org/gnu/non-gnu/chinese-fonts-truetype/LICENSE"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7343401b8493b02c296dda4a242f428f53d66bd01a8cb32d8daf0fd3519054d6
+size 314

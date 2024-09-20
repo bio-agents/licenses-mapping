@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Artistic-1.0-Perl.html",
-    "licenseId": "Artistic-1.0-Perl",
-    "name": "Artistic License 1.0 (Perl)",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://dev.perl.org/licenses/artistic.html"
-    ],
-    "synonyms": [
-        "Artistic License (Perl) 1.0"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac9ef3fd332d02f92967fa0c73b28154d608c95af59b08f40acdcc716626f7f8
+size 355

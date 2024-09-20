@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GPL-1.0-or-later.html",
-    "licenseId": "GPL-1.0-or-later",
-    "name": "GNU General Public License v1.0 or later",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:55c031cdaaf56c05006cea62e3379af66254514c7f0f7e878910bdab3d34d4e1
+size 347

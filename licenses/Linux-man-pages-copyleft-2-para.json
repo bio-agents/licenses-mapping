@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Linux-man-pages-copyleft-2-para.html",
-    "licenseId": "Linux-man-pages-copyleft-2-para",
-    "name": "Linux man-pages Copyleft - 2 paragraphs",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/move_pages.2#n5",
-        "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/migrate_pages.2#n8"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9626c60b9efe87711f29fb4e0a8ef033fde25ffc6918bb180f14277630bb3f4e
+size 496

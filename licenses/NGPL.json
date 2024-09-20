@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/NGPL.html",
-    "licenseId": "NGPL",
-    "name": "Nethack General Public License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/NGPL"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d5c66b77e9ddc98aaee904ce153b6843835de02ed386fbd03a32c0453d10daf
+size 283

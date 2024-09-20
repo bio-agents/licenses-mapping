@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/NIST-Software.html",
-    "licenseId": "NIST-Software",
-    "name": "NIST Software License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/open-quantum-safe/liboqs/blob/40b01fdbb270f8614fde30e65d30e9da18c02393/src/common/rand/rand_nist.c#L1-L15"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d44517ab700be0a999eb8239f981a94e2fc702e586f3388d7859fc2ffb059bdd
+size 381

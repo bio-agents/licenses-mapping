@@ -1,27 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Artistic-2.0.html",
-    "licenseId": "Artistic-2.0",
-    "name": "Artistic License 2.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.perlfoundation.org/artistic_license_2_0",
-        "https://www.perlfoundation.org/artistic-license-20.html",
-        "https://opensource.org/licenses/artistic-license-2.0"
-    ],
-    "synonyms": [
-        "Artistic-2.0",
-        "Artitic-2.0",
-        "Artistic2.0",
-        "Artistic 2",
-        "artistic-2",
-        "Artistic-2",
-        "ArtisticLicense2.0",
-        "Artistic 2.0",
-        "Artistic-2.0-only",
-        "artistic_2",
-        "Artistic-2.0Artistic-2.0",
-        "The Artistic License 2.0",
-        "The Artistic License, Version 2.0"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2413a21418238ed4530b189c71e825c61d568d86c265ad4c4bca39bdcf99ecb4
+size 796

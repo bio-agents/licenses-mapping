@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Python-2.0.html",
-    "licenseId": "Python-2.0",
-    "name": "Python License 2.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/Python-2.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a86bd09ff87330a25473cf1c5eafa98fc2c955cc1294a44578794fb13b6dfe7a
+size 289

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SGP4.html",
-    "licenseId": "SGP4",
-    "name": "SGP4 Permission Notice",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://celestrak.org/publications/AIAA/2006-6753/faq.php"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4529a5a6e0295100d54dc6102bbd44c1b06594da9b6806500b186b715474e37e
+size 297

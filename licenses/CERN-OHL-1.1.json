@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CERN-OHL-1.1.html",
-    "licenseId": "CERN-OHL-1.1",
-    "name": "CERN Open Hardware Licence v1.1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.ohwr.org/project/licenses/wikis/cern-ohl-v1.1"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ad3d963bacfffe64e031168ed927e0997f406a02bd79d0520fa5a6a5a0f8675
+size 322

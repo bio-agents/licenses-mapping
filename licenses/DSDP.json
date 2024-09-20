@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/DSDP.html",
-    "licenseId": "DSDP",
-    "name": "DSDP License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://fedoraproject.org/wiki/Licensing/DSDP"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4508eda9ab7ccff1a06ca8183a8c36282bbee3f1fe62efaa21db3f030a55a88
+size 275

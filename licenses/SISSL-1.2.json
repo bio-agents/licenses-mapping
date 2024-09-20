@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SISSL-1.2.html",
-    "licenseId": "SISSL-1.2",
-    "name": "Sun Industry Standards Source License v1.2",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://gridscheduler.sourceforge.net/Gridengine_SISSL_license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:728038a591972208433ed4a9a591629faccebe94ec6d4767fcbd3484d3624f69
+size 336

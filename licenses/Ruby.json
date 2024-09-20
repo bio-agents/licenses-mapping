@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Ruby.html",
-    "licenseId": "Ruby",
-    "name": "Ruby License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.ruby-lang.org/en/LICENSE.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:de2ca3525f3e26863c606ab3e82c6f896a62fe1d9e63f7c1ece682170f30d522
+size 269

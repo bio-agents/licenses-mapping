@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/ZPL-2.0.html",
-    "licenseId": "ZPL-2.0",
-    "name": "Zope Public License 2.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://old.zope.org/Resources/License/ZPL-2.0",
-        "https://opensource.org/licenses/ZPL-2.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:784a39aeb532354a077700e9a87e5c04fca7df64b9f608320710caa8660639e3
+size 342

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GFDL-1.2.html",
-    "licenseId": "GFDL-1.2",
-    "name": "GNU Free Documentation License v1.2",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c63eb6f053c714becef895b7e4e2af0c93d2388f9c7be8edf45bf6717e9ed67
+size 313

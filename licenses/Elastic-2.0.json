@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Elastic-2.0.html",
-    "licenseId": "Elastic-2.0",
-    "name": "Elastic License 2.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.elastic.co/licensing/elastic-license",
-        "https://github.com/elastic/elasticsearch/blob/master/licenses/ELASTIC-LICENSE-2.0.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bae8489ea30ce0be38474bb2d22f2ecad59a6c910a45c6073b09ac66488f4c52
+size 396

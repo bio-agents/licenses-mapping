@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Multics.html",
-    "licenseId": "Multics",
-    "name": "Multics License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/Multics"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f776c9dd5a5557f6c815267830ff5721cb41ac16683c22438ab7d2fc1466420d
+size 277

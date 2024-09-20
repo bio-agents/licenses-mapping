@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/MS-PL.html",
-    "licenseId": "MS-PL",
-    "name": "Microsoft Public License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.microsoft.com/opensource/licenses.mspx",
-        "https://opensource.org/licenses/MS-PL"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:511d522da45011cee1d37a2dd232255756684719c04a7f2a4227f737868c1dc0
+size 341

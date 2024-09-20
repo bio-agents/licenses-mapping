@@ -1,14 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/MIT-open-group.html",
-    "licenseId": "MIT-open-group",
-    "name": "MIT Open Group variant",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING",
-        "https://gitlab.freedesktop.org/xorg/app/xvinfo/-/blob/master/COPYING",
-        "https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING",
-        "https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cb9f4af9876862d8aed618e091f80e0712aac33d9be92ffb1e967b62b792ef6
+size 570

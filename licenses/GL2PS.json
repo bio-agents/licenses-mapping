@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GL2PS.html",
-    "licenseId": "GL2PS",
-    "name": "GL2PS License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.geuz.org/gl2ps/COPYING.GL2PS"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d5b60ddf825a03be58ca085887718bb2c292d2ea936362bbf37cadb9bf066f9
+size 272

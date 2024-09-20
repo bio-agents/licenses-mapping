@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OFL-1.0-RFN.html",
-    "licenseId": "OFL-1.0-RFN",
-    "name": "SIL Open Font License 1.0 with Reserved Font Name",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL10_web"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f620565e5923fdb2cb5b9158d6ff20fa15e3d3f1b7ebf5f37dddb652218c1783
+size 342

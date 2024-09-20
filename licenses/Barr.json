@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Barr.html",
-    "licenseId": "Barr",
-    "name": "Barr License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://fedoraproject.org/wiki/Licensing/Barr"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f87a540015813e1656f922ed3a8b2a81482a19d7543c37974cd7aa3c04c3cf2a
+size 275

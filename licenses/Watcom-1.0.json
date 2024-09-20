@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Watcom-1.0.html",
-    "licenseId": "Watcom-1.0",
-    "name": "Sybase Open Watcom Public License 1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/Watcom-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc9959de97152e3726b8fc993712393d482132e177c2dcd3e03789b4951cd951
+size 308

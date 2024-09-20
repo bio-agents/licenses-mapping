@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/xpp.html",
-    "licenseId": "xpp",
-    "name": "XPP License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://fedoraproject.org/wiki/Licensing/xpp"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a168f9ae5526f6f80832672d19f70175ca149c0ac35b490a0453d30da77e8be
+size 271

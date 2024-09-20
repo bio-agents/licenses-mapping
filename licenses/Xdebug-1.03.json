@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Xdebug-1.03.html",
-    "licenseId": "Xdebug-1.03",
-    "name": "Xdebug License v 1.03",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/xdebug/xdebug/blob/master/LICENSE"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bc30ec57dc560c401168bc67bfc609def9685d82ae6161682e869b70c4b0fed
+size 305

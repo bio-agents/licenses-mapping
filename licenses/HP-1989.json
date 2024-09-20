@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/HP-1989.html",
-    "licenseId": "HP-1989",
-    "name": "Hewlett-Packard 1989 License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/bleargh45/Data-UUID/blob/master/LICENSE"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:083cde242b83b2046c522b4f219be2e90ee9b3e13602d831309de9749d074fed
+size 310

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OSL-1.0.html",
-    "licenseId": "OSL-1.0",
-    "name": "Open Software License 1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/OSL-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:91ecb62a4eca24abcd44c8181a7b4be02e7becede9634c6ff2a2aea9c05abdcd
+size 287

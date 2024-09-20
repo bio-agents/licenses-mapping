@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GPL-2.0-with-classpath-exception.html",
-    "licenseId": "GPL-2.0-with-classpath-exception",
-    "name": "GNU General Public License v2.0 w/Classpath exception",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "https://www.gnu.org/software/classpath/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d482b83117621fa5e0fe9839c7f4676e1f7e8752ee02c292efb635aa28f71dc
+size 377

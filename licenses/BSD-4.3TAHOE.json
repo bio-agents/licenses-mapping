@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BSD-4.3TAHOE.html",
-    "licenseId": "BSD-4.3TAHOE",
-    "name": "BSD 4.3 TAHOE License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/389ds/389-ds-base/blob/main/ldap/include/sysexits-compat.h#L15",
-        "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n1788"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b51806a71d137e1e01cfd1349d65aa4c1264cfe3b69e8244d170d32a1da7b2ea
+size 463

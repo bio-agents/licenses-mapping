@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CDDL-1.0.html",
-    "licenseId": "CDDL-1.0",
-    "name": "Common Development and Distribution License 1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/cddl1"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4439af50fde70715a365db1dbcfe5f1f1f615c8a99cc40cfe34cc4524d30a434
+size 309

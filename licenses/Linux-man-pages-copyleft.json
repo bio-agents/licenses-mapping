@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Linux-man-pages-copyleft.html",
-    "licenseId": "Linux-man-pages-copyleft",
-    "name": "Linux man-pages Copyleft",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.kernel.org/doc/man-pages/licenses.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dfbde2f1fe94528a74092e389d3bccb5aacfbbca0407b2e200682f7d11ee635
+size 332

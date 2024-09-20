@@ -1,16 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/AGPL-3.0-or-later.html",
-    "licenseId": "AGPL-3.0-or-later",
-    "name": "GNU Affero General Public License v3.0 or later",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.gnu.org/licenses/agpl.txt",
-        "https://opensource.org/licenses/AGPL-3.0"
-    ],
-    "synonyms": [
-        "GNU Affero General Public License v3 or later (AGPLv3+)",
-        "GNU Affero General Public v3 or later (AGPLv3+)",
-        "AGPL >=3"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:561170121e7add4237d4b33da748e8c8525dce534cf917879ae53bb0278a45fd
+size 529

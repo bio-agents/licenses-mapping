@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Texinfo-exception.html",
-    "licenseId": "Texinfo-exception",
-    "name": "Texinfo exception",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://git.savannah.gnu.org/cgit/automake.git/tree/lib/texinfo.tex?h=v1.16.5#n23"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff5644c003fcab8fe18ca595a1e9a1fba063ef2c9248374605a7d3cf326e76d4
+size 342

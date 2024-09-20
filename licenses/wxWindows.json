@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/wxWindows.html",
-    "licenseId": "wxWindows",
-    "name": "wxWindows Library License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "https://opensource.org/licenses/WXwindows"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a3d07ab94b8d4af2582367ba8ea5be279dd4615b28c1be054b09acf879445e0
+size 292

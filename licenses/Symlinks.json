@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Symlinks.html",
-    "licenseId": "Symlinks",
-    "name": "Symlinks License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.mail-archive.com/debian-bugs-rc@lists.debian.org/msg11494.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:518dbd4c2d9a09e3ed27d20ddc424804b2ef047e0531151d1d40eaabcc7d04e9
+size 316

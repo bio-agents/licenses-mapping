@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BSD-4-Clause-UC.html",
-    "licenseId": "BSD-4-Clause-UC",
-    "name": "BSD-4-Clause (University of California-Specific)",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.freebsd.org/copyright/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:efa5fddb40d044fc558782664438c736dd39f553e45d15e3f40cd38b00a0f103
+size 333

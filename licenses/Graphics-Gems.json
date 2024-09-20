@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Graphics-Gems.html",
-    "licenseId": "Graphics-Gems",
-    "name": "Graphics Gems License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/erich666/GraphicsGems/blob/master/LICENSE.md"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:edaca7ec6964d45b6ffd6b7315022d9aa33278dbe435cfdcd1a171be91bd7b2b
+size 320

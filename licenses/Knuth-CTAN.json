@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Knuth-CTAN.html",
-    "licenseId": "Knuth-CTAN",
-    "name": "Knuth CTAN License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://ctan.org/license/knuth"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccd7e6f72b9e6dc90c2731ae9ee06deba29385aea5b490af602d0e111171fb4f
+size 278

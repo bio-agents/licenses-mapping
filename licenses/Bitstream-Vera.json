@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Bitstream-Vera.html",
-    "licenseId": "Bitstream-Vera",
-    "name": "Bitstream Vera Font License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://web.archive.org/web/20080207013128/http://www.gnome.org/fonts/",
-        "https://docubrain.com/sites/default/files/licenses/bitstream-vera.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:962c9f42bf0e95b43d736d52db59ad600090945ec2c28cc6e679066c7196efe3
+size 417

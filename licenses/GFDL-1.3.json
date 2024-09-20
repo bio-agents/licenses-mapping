@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GFDL-1.3.html",
-    "licenseId": "GFDL-1.3",
-    "name": "GNU Free Documentation License v1.3",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "https://www.gnu.org/licenses/fdl-1.3.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:41497498256f390b8e42e52707c231f2e08b21f233a767d0e5c7166f088f37a8
+size 300

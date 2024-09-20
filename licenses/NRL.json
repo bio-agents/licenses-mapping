@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/NRL.html",
-    "licenseId": "NRL",
-    "name": "NRL License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://web.mit.edu/network/isakmp/nrllicense.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:028563dbbce9e07461b0f1e4675ff7b7b1f31f318605e75d26a070c547378a5e
+size 276

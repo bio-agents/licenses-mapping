@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CNRI-Python.html",
-    "licenseId": "CNRI-Python",
-    "name": "CNRI Python License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/CNRI-Python"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a21351db7137b6df2b4bae1138cc12fca1fece1595dc49967cca34e37b07c4d2
+size 293

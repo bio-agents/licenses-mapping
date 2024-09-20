@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/NBPL-1.0.html",
-    "licenseId": "NBPL-1.0",
-    "name": "Net Boolean Public License v1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=37b4b3f6cc4bf34e1d3dec61e69914b9819d8894"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c1e06f0a3c50eb93e48fce3c492a811c58b3fbd46bd1dd83373ec97cd40ec3d
+size 371

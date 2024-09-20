@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/YPL-1.0.html",
-    "licenseId": "YPL-1.0",
-    "name": "Yahoo! Public License v1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.zimbra.com/license/yahoo_public_license_1.0.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ef0165d4ec1ca1900514ad1b501252ab88a17574debbd1cd5ca8226aa895e28
+size 309

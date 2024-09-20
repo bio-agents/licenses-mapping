@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/PolyForm-Small-Business-1.0.0.html",
-    "licenseId": "PolyForm-Small-Business-1.0.0",
-    "name": "PolyForm Small Business License 1.0.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://polyformproject.org/licenses/small-business/1.0.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fc56f93c43b49dc34e9fac88d872b24d297a7d8ebaae16b52889d10f33d304f
+size 362

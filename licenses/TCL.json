@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/TCL.html",
-    "licenseId": "TCL",
-    "name": "TCL/TK License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.tcl.tk/software/tcltk/license.html",
-        "https://fedoraproject.org/wiki/Licensing/TCL"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a628160a18807a53afb00dda81328b5ef57d892ffbc05aab2c6714670ca22fc3
+size 331

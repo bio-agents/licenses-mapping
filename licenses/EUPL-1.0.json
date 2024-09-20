@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/EUPL-1.0.html",
-    "licenseId": "EUPL-1.0",
-    "name": "European Union Public License 1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://ec.europa.eu/idabc/en/document/7330.html",
-        "http://ec.europa.eu/idabc/servlets/Doc027f.pdf?id=31096"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec54b958278470dc50bf147530a9e875a5ba391014b1a5d3ee1efc849ad170cc
+size 373

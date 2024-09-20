@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Frameworx-1.0.html",
-    "licenseId": "Frameworx-1.0",
-    "name": "Frameworx Open License 1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/Frameworx-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:219ecd9025be9e281d0b17bb49c4e9ffe75683e8611b69d5f7e5f38a5fea6142
+size 306

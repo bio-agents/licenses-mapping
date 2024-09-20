@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CATOSL-1.1.html",
-    "licenseId": "CATOSL-1.1",
-    "name": "Computer Associates Trusted Open Source License 1.1",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/CATOSL-1.1"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b084c3407d21f4b3e9407a2113debea3285ae5ae52d93c9a57df69796d60ee9
+size 322

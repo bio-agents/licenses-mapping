@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/W3C-19980720.html",
-    "licenseId": "W3C-19980720",
-    "name": "W3C Software Notice and License (1998-07-20)",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.w3.org/Consortium/Legal/copyright-software-19980720.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7dbe02e54e7f6ef7b3eb0e577dae7582baea9687024a4e9c31ec87d2745a90c
+size 345

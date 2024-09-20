@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SMPPL.html",
-    "licenseId": "SMPPL",
-    "name": "Secure Messaging Protocol Public License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/dcblake/SMP/blob/master/Documentation/License.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee3f72f80fdb73d83a407911bde3be432201ac05a78eb3c52467134e08796c6a
+size 328

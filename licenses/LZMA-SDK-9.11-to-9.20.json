@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/LZMA-SDK-9.11-to-9.20.html",
-    "licenseId": "LZMA-SDK-9.11-to-9.20",
-    "name": "LZMA SDK License (versions 9.11 to 9.20)",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.7-zip.org/sdk.html",
-        "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d7b2c0634dc8882edb252715d471ffbf825768633050c4f5c085ac8d79794f3
+size 393

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BUSL-1.1.html",
-    "licenseId": "BUSL-1.1",
-    "name": "Business Source License 1.1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://mariadb.com/bsl11/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:622074f5b61eb89c600b75e719120c7c159428f0d28f759f6b5b567cc2d3a56f
+size 279

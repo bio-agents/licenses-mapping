@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SMLNJ.html",
-    "licenseId": "SMLNJ",
-    "name": "Standard ML of New Jersey License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.smlnj.org/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ea9b41215ca06fc1c56da77b88c05125442722e8bfe367e5fc71f830c75d5ea
+size 287

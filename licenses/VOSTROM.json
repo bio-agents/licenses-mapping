@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/VOSTROM.html",
-    "licenseId": "VOSTROM",
-    "name": "VOSTROM Public License for Open Source",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://fedoraproject.org/wiki/Licensing/VOSTROM"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:17c141b18e57806fe6f470c229f3ebabd6be7a8c0d345b6815c7ebf3b9b57dd9
+size 310

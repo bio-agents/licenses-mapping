@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/xlock.html",
-    "licenseId": "xlock",
-    "name": "xlock License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://fossies.org/linux/tiff/contrib/ras/ras2tif.c"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:40f2b779aa18674d4c0bc5ff65802d9e9c164f8400a722d381383374b26f2e6d
+size 285

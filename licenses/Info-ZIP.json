@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Info-ZIP.html",
-    "licenseId": "Info-ZIP",
-    "name": "Info-ZIP License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.info-zip.org/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2b8375baaeeeaca22a157c4b0ca9df7b70731dba3e2238111c6efef353f21af
+size 278

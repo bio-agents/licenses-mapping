@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OFFIS.html",
-    "licenseId": "OFFIS",
-    "name": "OFFIS License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://sourceforge.net/p/xmedcon/code/ci/master/tree/libs/dicom/README"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f38ed6c47e5855de486658bc3e2520df9d2f1a2c804fc7206a61afeb7ebc02ed
+size 304

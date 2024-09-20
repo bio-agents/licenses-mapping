@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GPL-3.0-with-GCC-exception.html",
-    "licenseId": "GPL-3.0-with-GCC-exception",
-    "name": "GNU General Public License v3.0 w/GCC Runtime Library exception",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "https://www.gnu.org/licenses/gcc-exception-3.1.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:00c1359ce2c6bd63404a924a98db20d188762ea2cb95b86572f8c3125fe849d8
+size 374

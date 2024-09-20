@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/RHeCos-1.1.html",
-    "licenseId": "RHeCos-1.1",
-    "name": "Red Hat eCos Public License v1.1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://ecos.sourceware.org/old-license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:445d09ef2cf1c328def03656b4b9357f4c7aa1f75de6250fb0ddcd547bf0e04e
+size 305

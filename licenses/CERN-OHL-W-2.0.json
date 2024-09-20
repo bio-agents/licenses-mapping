@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CERN-OHL-W-2.0.html",
-    "licenseId": "CERN-OHL-W-2.0",
-    "name": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cb7f5ff0e005cc0ffb1e527785b04e9b5981e118d25d44acc92c002c691df80
+size 364

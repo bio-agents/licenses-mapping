@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/FreeBSD-DOC.html",
-    "licenseId": "FreeBSD-DOC",
-    "name": "FreeBSD Documentation License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.freebsd.org/copyright/freebsd-doc-license/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3d28859abf890407c229edb15861c3c0f84a03ad701e5a2f10ab26ec054123b
+size 315

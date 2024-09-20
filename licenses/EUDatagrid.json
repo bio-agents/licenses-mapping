@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/EUDatagrid.html",
-    "licenseId": "EUDatagrid",
-    "name": "EU DataGrid Software License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://eu-datagrid.web.cern.ch/eu-datagrid/license.html",
-        "https://opensource.org/licenses/EUDatagrid"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6eec23b8593ca7936ee09fea0377c83308971c7beca63bb1de287d333889aa1d
+size 366

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CC-BY-NC-SA-2.0-FR.html",
-    "licenseId": "CC-BY-NC-SA-2.0-FR",
-    "name": "Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/legalcode"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b492ba889588c0682891d7779878f69a13e463981c75307fd2bd63dfbe12eb9d
+size 372

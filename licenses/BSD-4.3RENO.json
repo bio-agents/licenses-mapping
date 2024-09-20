@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BSD-4.3RENO.html",
-    "licenseId": "BSD-4.3RENO",
-    "name": "BSD 4.3 RENO License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=libiberty/strcasecmp.c;h=131d81c2ce7881fa48c363dc5bf5fb302c61ce0b;hb=HEAD"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:35e6dcec056340b640b2ac9dd95056aaaff881e1a6ac8fb16d613542a3c220b9
+size 381

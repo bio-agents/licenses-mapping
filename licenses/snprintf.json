@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/snprintf.html",
-    "licenseId": "snprintf",
-    "name": "snprintf License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/openssh/openssh-portable/blob/master/openbsd-compat/bsd-snprintf.c#L2"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:49d355a55cab9419f825754a802dab755c75ad6868482fb849e9f03df7fe01f7
+size 330

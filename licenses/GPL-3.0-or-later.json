@@ -1,22 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GPL-3.0-or-later.html",
-    "licenseId": "GPL-3.0-or-later",
-    "name": "GNU General Public License v3.0 or later",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
-        "https://opensource.org/licenses/GPL-3.0"
-    ],
-    "synonyms": [
-        "GNU General Public License v3 or later (GPLv3+)",
-        "GNU General Public v3 or later (GPLv3+)",
-        "GPL (>= 3.0)",
-        "GPL-3 or above",
-        "GPL >=3",
-        "GPL (>= 3) | file LICENSE",
-        "GPL(>=3)",
-        "GPL (>=3)",
-        "GPL (>= 3)"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:64cf3b98ee2c671d5c8a505430a8b3b469b9ff5d1c52a731c9f364236596bdc4
+size 667

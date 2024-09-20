@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/PHP-3.0.html",
-    "licenseId": "PHP-3.0",
-    "name": "PHP License v3.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.php.net/license/3_0.txt",
-        "https://opensource.org/licenses/PHP-3.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8938fe20e962a658ba1d1ac164c825cb4892e7f53b5e6999b18b7edb7fd2747
+size 324

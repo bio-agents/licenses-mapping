@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/TermReadKey.html",
-    "licenseId": "TermReadKey",
-    "name": "TermReadKey License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/jonathanstowe/TermReadKey/blob/master/README#L9-L10"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7526156db7693d3be3ec482ec5fdd847729ad6ad21dd8a39698c42825df3d64
+size 321

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/MIT-testregex.html",
-    "licenseId": "MIT-testregex",
-    "name": "MIT testregex Variant",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/dotnet/runtime/blob/55e1ac7c07df62c4108d4acedf78f77574470ce5/src/libraries/System.Text.RegularExpressions/tests/FunctionalTests/AttRegexTests.cs#L12-L28"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:54ecb764d0d7b0474c9ba8cf61ffae7dcb6f27aa47a6ea4da9cf512a20d0087e
+size 428

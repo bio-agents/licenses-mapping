@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/ASWF-Digital-Assets-1.1.html",
-    "licenseId": "ASWF-Digital-Assets-1.1",
-    "name": "ASWF Digital Assets License 1.1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/AcademySoftwareFoundation/foundation/blob/main/digital_assets/aswf_digital_assets_license_v1.1.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:55ea3b58244eaa7eebe90fe861fa56240d9f1dac01a4d5e1a7ba172cc2541a9d
+size 404

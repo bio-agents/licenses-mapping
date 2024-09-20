@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Ferguson-Twofish.html",
-    "licenseId": "Ferguson-Twofish",
-    "name": "Ferguson Twofish License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/wernerd/ZRTPCPP/blob/6b3cd8e6783642292bad0c21e3e5e5ce45ff3e03/cryptcommon/twofish.c#L113C3-L127"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3e5cc78db6c43d8e8ffc63e2174a34b2fa2477cf39e9c5f24b8c0e17bd7882f
+size 380

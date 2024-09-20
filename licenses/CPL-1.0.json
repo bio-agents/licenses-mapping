@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CPL-1.0.html",
-    "licenseId": "CPL-1.0",
-    "name": "Common Public License 1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/CPL-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:08af6db5407f98c1ed7ae8ce0d7b12bd1c004622a1394da6d5453f9c769333bc
+size 287

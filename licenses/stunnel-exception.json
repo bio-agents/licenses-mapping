@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/stunnel-exception.html",
-    "licenseId": "stunnel-exception",
-    "name": "stunnel Exception",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/mtrojnar/stunnel/blob/master/COPYING.md"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aefaecd92dd8a8acc3b05c689a19eb18a91c67502c23ca2f2c34f24ca244dbc
+size 319

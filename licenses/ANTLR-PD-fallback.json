@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/ANTLR-PD-fallback.html",
-    "licenseId": "ANTLR-PD-fallback",
-    "name": "ANTLR Software Rights Notice with license fallback",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.antlr2.org/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ce5f178fac665da572262a01266dfc5e1a6509609f2008a6550cfe1afc19390
+size 328

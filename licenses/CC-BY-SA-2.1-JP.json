@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CC-BY-SA-2.1-JP.html",
-    "licenseId": "CC-BY-SA-2.1-JP",
-    "name": "Creative Commons Attribution Share Alike 2.1 Japan",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c16cbbeb6dfd6ae328f5ca276b18636477aed2a85324d6204fef015ab036009a
+size 349

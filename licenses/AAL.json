@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/AAL.html",
-    "licenseId": "AAL",
-    "name": "Attribution Assurance License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/attribution"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:585b963fadc6515925dc754a64322690c07977103d7801dfdc3102520969f9a4
+size 287

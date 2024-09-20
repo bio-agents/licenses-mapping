@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CPOL-1.02.html",
-    "licenseId": "CPOL-1.02",
-    "name": "Code Project Open License 1.02",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.codeproject.com/info/cpol10.aspx"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:52edb8fca9911d9df0cc3818ac6e45bb1dcf6c3768a2292f2f486556576ee5c5
+size 301

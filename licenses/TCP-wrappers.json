@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/TCP-wrappers.html",
-    "licenseId": "TCP-wrappers",
-    "name": "TCP Wrappers License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://rc.quest.com/topics/openssh/license.php#tcpwrappers"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1317bd4f1fd95adbff72ffb7a28cc8835d7c265f7f5f2d2043c04662e62270a
+size 312

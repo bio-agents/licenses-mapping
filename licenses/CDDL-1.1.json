@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CDDL-1.1.html",
-    "licenseId": "CDDL-1.1",
-    "name": "Common Development and Distribution License 1.1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://glassfish.java.net/public/CDDL+GPL_1_1.html",
-        "https://javaee.github.io/glassfish/LICENSE"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d89f9e8c83cff64697b67bda8e5f35122022ce1eacae23040cb6b07997a64c2d
+size 377

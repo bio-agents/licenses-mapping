@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/bzip2-1.0.5.html",
-    "licenseId": "bzip2-1.0.5",
-    "name": "bzip2 and libbzip2 License v1.0.5",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "https://sourceware.org/bzip2/1.0.5/bzip2-manual-1.0.5.html",
-        "http://bzip.org/1.0.5/bzip2-manual-1.0.5.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4930ad331c451a6f1393ce0e7b5e8e3772f236715d3d7e25a105a26cd415c51b
+size 379

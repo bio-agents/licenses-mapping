@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SGI-B-1.1.html",
-    "licenseId": "SGI-B-1.1",
-    "name": "SGI Free Software License B v1.1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://oss.sgi.com/projects/FreeB/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:996cf5683313652489e73bc252639fe202689a1aed5ff51733ac7c4840d61230
+size 294

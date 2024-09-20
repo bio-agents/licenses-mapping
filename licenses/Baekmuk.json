@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Baekmuk.html",
-    "licenseId": "Baekmuk",
-    "name": "Baekmuk License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://fedoraproject.org/wiki/Licensing:Baekmuk?rd=Licensing/Baekmuk"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:647e56367c835449697c0c36b9d8746d8514be1cf5b003ba228805363f7924d2
+size 308

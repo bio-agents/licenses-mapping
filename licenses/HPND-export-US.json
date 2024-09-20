@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/HPND-export-US.html",
-    "licenseId": "HPND-export-US",
-    "name": "HPND with US Government export control warning",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.kermitproject.org/ck90.html#source"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:04af099fe256f6b2e7c9c3768d0d5eb5185fbc256d186adf590ecf50cf2a1503
+size 330

@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SANE-exception.html",
-    "licenseId": "SANE-exception",
-    "name": "SANE Exception",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/alexpevzner/sane-airscan/blob/master/LICENSE",
-        "https://gitlab.com/sane-project/backends/-/blob/master/sanei/sanei_pp.c?ref_type=heads",
-        "https://gitlab.com/sane-project/frontends/-/blob/master/sanei/sanei_codec_ascii.c?ref_type=heads"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1457010be82d119b649ae313f5992b11151c7c0297421ad3c6a737daf0f51934
+size 521

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/FreeImage.html",
-    "licenseId": "FreeImage",
-    "name": "FreeImage Public License v1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://freeimage.sourceforge.net/freeimage-license.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:46604c127aac5abc340a952074fd0e09ce5d99ea1afa6fb22053736de647651b
+size 311

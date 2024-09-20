@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/JPNIC.html",
-    "licenseId": "JPNIC",
-    "name": "Japan Network Information Center License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://gitlab.isc.org/isc-projects/bind9/blob/master/COPYRIGHT#L366"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d216c4bffe6dfc759605afe7cc8df1e8f0924324476b07cd486bf5d05923c8a
+size 328

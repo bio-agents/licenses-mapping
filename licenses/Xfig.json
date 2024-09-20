@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Xfig.html",
-    "licenseId": "Xfig",
-    "name": "Xfig License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/Distrotech/transfig/blob/master/transfig/transfig.c",
-        "https://fedoraproject.org/wiki/Licensing:MIT#Xfig_Variant",
-        "https://sourceforge.net/p/mcj/xfig/ci/master/tree/src/Makefile.am"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d7dc45c5052d1d0e5111655624b724cfbd431846e0944cf5f00583e33d16c97
+size 446

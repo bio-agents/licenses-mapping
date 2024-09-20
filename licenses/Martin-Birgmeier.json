@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Martin-Birgmeier.html",
-    "licenseId": "Martin-Birgmeier",
-    "name": "Martin Birgmeier License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/Perl/perl5/blob/blead/util.c#L6136"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bca9a0cf30ee6db32a24d5893e9c0a3ab9342397761bdc232c22b75b6c4e894d
+size 319

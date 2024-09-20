@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SSPL-1.0.html",
-    "licenseId": "SSPL-1.0",
-    "name": "Server Side Public License, v 1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.mongodb.com/licensing/server-side-public-license"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e77019af328cc828d1adcff78d318fda9c1e68c44f61d52a242a0375befc4dbd
+size 317

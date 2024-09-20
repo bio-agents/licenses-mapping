@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OLDAP-2.8.html",
-    "licenseId": "OLDAP-2.8",
-    "name": "Open LDAP Public License v2.8",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.openldap.org/software/release/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d738d43e331d336e517b1e4502ba8b3ee25eec8f24bd076f9100ac403a417127
+size 309

@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/EFL-2.0.html",
-    "licenseId": "EFL-2.0",
-    "name": "Eiffel Forum License v2.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.eiffel-nice.org/license/eiffel-forum-license-2.html",
-        "https://opensource.org/licenses/EFL-2.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7700a0be5ba6aa83f9b2162a1a6e24f0922560b406d1eee770c1d782bdbf36d1
+size 361

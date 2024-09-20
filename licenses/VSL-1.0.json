@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/VSL-1.0.html",
-    "licenseId": "VSL-1.0",
-    "name": "Vovida Software License v1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/VSL-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:18f30f47e8bec6d8acde18eadd7dd3d6abfa24af500a53e598b85f809dc8abd4
+size 290

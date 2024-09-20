@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Parity-7.0.0.html",
-    "licenseId": "Parity-7.0.0",
-    "name": "The Parity Public License 7.0.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://paritylicense.com/versions/7.0.0.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2dbe6965c05a6b2fe725b10ad1e7291e100375ceec13f84966caa11353a5165
+size 310

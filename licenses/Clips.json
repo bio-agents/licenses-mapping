@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Clips.html",
-    "licenseId": "Clips",
-    "name": "Clips License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/DrItanium/maya/blob/master/LICENSE.CLIPS"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:87f38eb3a8b2ef84561e159340930d152653d3b7c551e0e31baf90a73468f9d1
+size 292

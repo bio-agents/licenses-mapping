@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/APSL-1.2.html",
-    "licenseId": "APSL-1.2",
-    "name": "Apple Public Source License 1.2",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.samurajdata.se/opensource/mirror/licenses/apsl.php"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:816a1187522dfbf5853593e5a90b1533a823b019fdbf8e1ec6014bdfb7cca443
+size 317

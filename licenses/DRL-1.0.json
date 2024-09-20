@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/DRL-1.0.html",
-    "licenseId": "DRL-1.0",
-    "name": "Detection Rule License 1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/Neo23x0/sigma/blob/master/LICENSE.Detection.Rules.md"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcdaa802a55aef2732c4a8e9d19cd989e3826ac641954ac37b9fe686410a6e93
+size 321

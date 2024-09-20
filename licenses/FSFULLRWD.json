@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/FSFULLRWD.html",
-    "licenseId": "FSFULLRWD",
-    "name": "FSF Unlimited License (With License Retention and Warranty Disclaimer)",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://lists.gnu.org/archive/html/autoconf/2012-04/msg00061.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7bd6fc395aaafe710bbae40ac87dfa00b5b201f9fdddc3b0ace21af8e709273
+size 363

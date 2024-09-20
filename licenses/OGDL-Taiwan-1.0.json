@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OGDL-Taiwan-1.0.html",
-    "licenseId": "OGDL-Taiwan-1.0",
-    "name": "Taiwan Open Government Data License, version 1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://data.gov.tw/license"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:755f35b60fd7a1874801c9a7d694675809651c5649aa645cfd1c7ad123d567c1
+size 315

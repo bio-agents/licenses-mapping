@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/MIT-0.html",
-    "licenseId": "MIT-0",
-    "name": "MIT No Attribution",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/aws/mit-0",
-        "https://romanrm.net/mit-zero",
-        "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf096783ffa96e1eda7841e152a4624da42d2721f9c81bf9cd44e40ec20a0304
+size 396

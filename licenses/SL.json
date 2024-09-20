@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SL.html",
-    "licenseId": "SL",
-    "name": "SL License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/mtoyoda/sl/blob/master/LICENSE"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a087264d661ee2beda2a02fb6dbff4090abafffc143e917dc9e60e50c926eea5
+size 273

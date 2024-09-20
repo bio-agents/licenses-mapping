@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/MS-RL.html",
-    "licenseId": "MS-RL",
-    "name": "Microsoft Reciprocal License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.microsoft.com/opensource/licenses.mspx",
-        "https://opensource.org/licenses/MS-RL"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e0cffc6172ada6b9c469f9a346e3d91c8c94e9312f278ed324bcd8da54eaa27
+size 345

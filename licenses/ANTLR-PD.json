@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/ANTLR-PD.html",
-    "licenseId": "ANTLR-PD",
-    "name": "ANTLR Software Rights Notice",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.antlr2.org/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f6091ede98976501d4e5e026882fd35903c4c6347ca5774c37a0a2469595e22
+size 288

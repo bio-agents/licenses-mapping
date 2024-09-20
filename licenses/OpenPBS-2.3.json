@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OpenPBS-2.3.html",
-    "licenseId": "OpenPBS-2.3",
-    "name": "OpenPBS v2.3 Software License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/adaptivecomputing/torque/blob/master/PBS_License.txt",
-        "https://www.mcs.anl.gov/research/projects/openpbs/PBS_License.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1085f3f762ab849b655c35236b91c5dde387fce303e958867b5418414808f4c
+size 409

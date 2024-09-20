@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BSD-3-Clause-Open-MPI.html",
-    "licenseId": "BSD-3-Clause-Open-MPI",
-    "name": "BSD 3-Clause Open MPI variant",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.open-mpi.org/community/license.php",
-        "http://www.netlib.org/lapack/LICENSE.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:74589e894d3aa760007b4351f251baab09d8d2306605c10ba8bf6670faae7791
+size 379

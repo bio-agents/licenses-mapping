@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Giftware.html",
-    "licenseId": "Giftware",
-    "name": "Giftware License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://liballeg.org/license.html#allegro-4-the-giftware-license"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b26c18fe2d33101a4b84969046279d5b0bde6b284523c2c037a7f6061a7b88b
+size 305

@@ -1,18 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/D-FSL-1.0.html",
-    "licenseId": "D-FSL-1.0",
-    "name": "Deutsche Freie Software Lizenz",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.dipp.nrw.de/d-fsl/lizenzen/",
-        "http://www.dipp.nrw.de/d-fsl/index_html/lizenzen/de/D-FSL-1_0_de.txt",
-        "http://www.dipp.nrw.de/d-fsl/index_html/lizenzen/en/D-FSL-1_0_en.txt",
-        "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl",
-        "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/deutsche-freie-software-lizenz",
-        "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/german-free-software-license",
-        "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/D-FSL-1_0_de.txt/at_download/file",
-        "https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/D-FSL-1_0_en.txt/at_download/file"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b0d1bf0bbad70c6bc11fad7cf69e38ed2c864aa74c5ca56b33c69124bd93abf
+size 929

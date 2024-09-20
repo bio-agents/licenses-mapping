@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Xnet.html",
-    "licenseId": "Xnet",
-    "name": "X.Net License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/Xnet"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4db856c855f655144c986cbc97dbeff37da5d406f381dcde0808caaab70087a5
+size 266

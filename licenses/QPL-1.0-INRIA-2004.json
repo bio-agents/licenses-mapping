@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/QPL-1.0-INRIA-2004.html",
-    "licenseId": "QPL-1.0-INRIA-2004",
-    "name": "Q Public License 1.0 - INRIA 2004 variant",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/maranget/hevea/blob/master/LICENSE"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f70ffc48f58ab98fc528c1dbc8b6aeb38c613d5a6ba74f318d0d2ddf69311e26
+size 340

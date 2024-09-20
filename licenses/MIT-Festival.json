@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/MIT-Festival.html",
-    "licenseId": "MIT-Festival",
-    "name": "MIT Festival Variant",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/festvox/flite/blob/master/COPYING",
-        "https://github.com/festvox/speech_agents/blob/master/COPYING"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:45338c3f33ea7b8326c5db21d99c94b3fdb8c7d192a5502ef79ce4fb77ab9249
+size 378

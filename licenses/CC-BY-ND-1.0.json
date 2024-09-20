@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CC-BY-ND-1.0.html",
-    "licenseId": "CC-BY-ND-1.0",
-    "name": "Creative Commons Attribution No Derivatives 1.0 Generic",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://creativecommons.org/licenses/by-nd/1.0/legalcode"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:19af0361406f87e3d2f514492d447ce0cf800ce4f96292617d73605a7d2d392d
+size 345

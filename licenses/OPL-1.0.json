@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OPL-1.0.html",
-    "licenseId": "OPL-1.0",
-    "name": "Open Public License v1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://old.koalateam.com/jackaroo/OPL_1_0.TXT",
-        "https://fedoraproject.org/wiki/Licensing/Open_Public_License"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:856919b01466739ebd7c8781424600e3264e641bce545a48a6f9ed8d1afeaf27
+size 365

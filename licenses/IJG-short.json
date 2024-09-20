@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/IJG-short.html",
-    "licenseId": "IJG-short",
-    "name": "Independent JPEG Group License - short",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://sourceforge.net/p/xmedcon/code/ci/master/tree/libs/ljpg/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fde1c507eaffa5156e30d21ab626de849dba2b02adba0e0db0fd5a69538a4c8
+size 330

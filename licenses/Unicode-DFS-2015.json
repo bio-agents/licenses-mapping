@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Unicode-DFS-2015.html",
-    "licenseId": "Unicode-DFS-2015",
-    "name": "Unicode License Agreement - Data Files and Software (2015)",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://web.archive.org/web/20151224134844/http://unicode.org/copyright.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3300890059f817351d3413291ca2bd08571dc45c831367aa8ee8bf6066e1a940
+size 376

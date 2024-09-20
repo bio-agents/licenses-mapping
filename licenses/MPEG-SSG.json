@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/MPEG-SSG.html",
-    "licenseId": "MPEG-SSG",
-    "name": "MPEG Software Simulation",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/converter/ppm/ppmtompeg/jrevdct.c#l1189"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:34aae22a0d5ab1fab114d73639d17f03719089a4188fdfbf23579b74da903b91
+size 350

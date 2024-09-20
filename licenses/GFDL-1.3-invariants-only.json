@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GFDL-1.3-invariants-only.html",
-    "licenseId": "GFDL-1.3-invariants-only",
-    "name": "GNU Free Documentation License v1.3 only - invariants",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.gnu.org/licenses/fdl-1.3.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc755a681e87e585edbe5e9a7068271740ea5d2332d5d0880f1036113866bf3d
+size 351

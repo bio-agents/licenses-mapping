@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/HP-1986.html",
-    "licenseId": "HP-1986",
-    "name": "Hewlett-Packard 1986 License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://sourceware.org/git/?p=newlib-cygwin.git;a=blob;f=newlib/libc/machine/hppa/memchr.S;h=1cca3e5e8867aa4bffef1f75a5c1bba25c0c441e;hb=HEAD#l2"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9760f2dc6ec64cdfe0b1f34ac0689b260158505c6476c65f261a9397eb1afe3
+size 396

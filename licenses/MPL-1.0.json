@@ -1,14 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/MPL-1.0.html",
-    "licenseId": "MPL-1.0",
-    "name": "Mozilla Public License 1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.mozilla.org/MPL/MPL-1.0.html",
-        "https://opensource.org/licenses/MPL-1.0"
-    ],
-    "synonyms": [
-        "Mozilla Public License 1.0 (MPL)"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b0daf3148198a4cfe5a28cc9f90b9184b3c3ab83944765fccdc7f7409f26496
+size 387

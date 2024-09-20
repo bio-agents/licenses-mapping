@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BSD-1-Clause.html",
-    "licenseId": "BSD-1-Clause",
-    "name": "BSD 1-Clause License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://svnweb.freebsd.org/base/head/include/ifaddrs.h?revision=326823"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:54a0ebbdddbcf50ad6f5f76f326a921a078756c39137075610ee6bf4f03058f5
+size 323

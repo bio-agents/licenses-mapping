@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/JSON.html",
-    "licenseId": "JSON",
-    "name": "JSON License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.json.org/license.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed0ac1b22e4275ef215c0f02691b5cfcc0b810f20813d91e3468b60f48e90241
+size 262

@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Aladdin.html",
-    "licenseId": "Aladdin",
-    "name": "Aladdin Free Public License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://pages.cs.wisc.edu/~ghost/doc/AFPL/6.01/Public.htm"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:67dc392a15434bb12501227788b72018af74d10ca6e92ac6439866383268c6c5
+size 307

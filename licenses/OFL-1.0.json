@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OFL-1.0.html",
-    "licenseId": "OFL-1.0",
-    "name": "SIL Open Font License 1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL10_web"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9684382767f35720752d4ec84c3e6dbacc1b3bf1052a01dbcba447416c1302b
+size 310

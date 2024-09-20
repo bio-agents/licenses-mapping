@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CC-BY-3.0-NL.html",
-    "licenseId": "CC-BY-3.0-NL",
-    "name": "Creative Commons Attribution 3.0 Netherlands",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://creativecommons.org/licenses/by/3.0/nl/legalcode"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:43f8928c32c590887c8c81d1b1c32a0a40b0b4cad450b72f90d37bcad3616738
+size 334

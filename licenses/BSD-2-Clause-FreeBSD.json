@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BSD-2-Clause-FreeBSD.html",
-    "licenseId": "BSD-2-Clause-FreeBSD",
-    "name": "BSD 2-Clause FreeBSD License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "http://www.freebsd.org/copyright/freebsd-license.html"
-    ],
-    "synonyms": [
-        "FreeBSD 2-clause license"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:82656587f53e7cce260564d9fadab218fe430c71345dc3bc1d03da34a05125a5
+size 370

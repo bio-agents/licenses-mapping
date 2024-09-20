@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/DL-DE-ZERO-2.0.html",
-    "licenseId": "DL-DE-ZERO-2.0",
-    "name": "Data licence Germany \u2013 zero \u2013 version 2.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.govdata.de/dl-de/zero-2-0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffed75d29538339f31960c79dda337ca08c5d30fc84feee0b2f9a3b86e97b94c
+size 326

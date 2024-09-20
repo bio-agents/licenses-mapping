@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Vim.html",
-    "licenseId": "Vim",
-    "name": "Vim License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://vimdoc.sourceforge.net/htmldoc/uganda.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:25690d086157ece6cdcba2c85e89edceff86cd5b93d7aae5d672f88e5111ff6b
+size 276

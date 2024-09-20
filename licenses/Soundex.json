@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Soundex.html",
-    "licenseId": "Soundex",
-    "name": "Soundex License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://metacpan.org/release/RJBS/Text-Soundex-3.05/source/Soundex.pm#L3-11"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aa25021c140c303b6c834a5fd77010ca09701d16a8878f661e59655fb476e69
+size 314

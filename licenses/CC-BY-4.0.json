@@ -1,16 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CC-BY-4.0.html",
-    "licenseId": "CC-BY-4.0",
-    "name": "Creative Commons Attribution 4.0 International",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://creativecommons.org/licenses/by/4.0/legalcode"
-    ],
-    "synonyms": [
-        "Creative Commons Attribution 4.0 International License",
-        "CreativeCommonsAttribution4.0InternationalLicense",
-        "CCBY4.0",
-        "CC BY 4.0"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:376a31971349ea2e2e50326705465b48deb1f09419fa4c657cd4b253aeda76e5
+size 498

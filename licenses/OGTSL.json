@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OGTSL.html",
-    "licenseId": "OGTSL",
-    "name": "Open Group Test Suite License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt",
-        "https://opensource.org/licenses/OGTSL"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:47289c6c3bf33069930ea00fe36ccd3cb63b9d985c3eb60021cdecfdf32d3c4b
+size 362

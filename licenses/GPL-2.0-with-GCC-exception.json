@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GPL-2.0-with-GCC-exception.html",
-    "licenseId": "GPL-2.0-with-GCC-exception",
-    "name": "GNU General Public License v2.0 w/GCC Runtime Library exception",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=gcc/libgcc1.c;h=762f5143fc6eed57b6797c82710f3538aa52b40b;hb=cb143a3ce4fb417c68f5fa2691a1b1b1053dfba9#l10"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8e57cd50727f33b084f2a64ed416c366f16cb580a4f8c61460cac7b8a0b707d
+size 472

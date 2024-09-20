@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/NCSA.html",
-    "licenseId": "NCSA",
-    "name": "University of Illinois/NCSA Open Source License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://otm.illinois.edu/uiuc_openSource",
-        "https://opensource.org/licenses/NCSA"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:417aedf4e98fd4cd14cf4b90824a2943344c7ceca1765ad332b117dc0fed093a
+size 351

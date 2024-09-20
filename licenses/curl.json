@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/curl.html",
-    "licenseId": "curl",
-    "name": "curl License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/bagder/curl/blob/master/COPYING"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2424c2ed255debbb7f4395624f1fbbfcfe82be903fa2efb277f984a41023735d
+size 280

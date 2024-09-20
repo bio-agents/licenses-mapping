@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/GPL-2.0-with-bison-exception.html",
-    "licenseId": "GPL-2.0-with-bison-exception",
-    "name": "GNU General Public License v2.0 w/Bison exception",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": true,
-    "seeAlso": [
-        "http://git.savannah.gnu.org/cgit/bison.git/tree/data/yacc.c?id=193d7c7054ba7197b0789e14965b739162319b5e#n141"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d43ebe6e68875ce81df43b0b1ea7dbb50f54491eb0ed468131fcdf28c8b6b4d
+size 422

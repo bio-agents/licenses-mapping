@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/RSA-MD.html",
-    "licenseId": "RSA-MD",
-    "name": "RSA Message-Digest License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.faqs.org/rfcs/rfc1321.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d66a97af8b9a7048fba8a180fcf04960200d1c103e915db2077aeb896a95bfa
+size 285

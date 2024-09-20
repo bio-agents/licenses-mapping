@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/OPUBL-1.0.html",
-    "licenseId": "OPUBL-1.0",
-    "name": "Open Publication License v1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://opencontent.org/openpub/",
-        "https://www.debian.org/opl",
-        "https://www.ctan.org/license/opl"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ec5d6ce8abc0b2b2ebfbd9863688891db511bd6ed5ee71348c6f55b8c551723
+size 370

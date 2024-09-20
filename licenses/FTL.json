@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/FTL.html",
-    "licenseId": "FTL",
-    "name": "Freetype Project License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://freetype.fis.uniroma2.it/FTL.TXT",
-        "http://git.savannah.gnu.org/cgit/freetype/freetype2.git/tree/docs/FTL.TXT",
-        "http://gitlab.freedesktop.org/freetype/freetype/-/raw/master/docs/FTL.TXT"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:af1ffcc6c24ca5fdea378437ef50463dcaccefa8786d8eb8454c1393651ef8d6
+size 449

@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/libutil-David-Nugent.html",
-    "licenseId": "libutil-David-Nugent",
-    "name": "libutil David Nugent License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://web.mit.edu/freebsd/head/lib/libutil/login_ok.3",
-        "https://cgit.freedesktop.org/libbsd/tree/man/setproctitle.3bsd"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0827893c56841a56cb56c7ff6c65bb5e061ce7fef6737a5beba643e6e0b78ff1
+size 406

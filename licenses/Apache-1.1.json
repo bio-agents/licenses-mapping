@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Apache-1.1.html",
-    "licenseId": "Apache-1.1",
-    "name": "Apache License 1.1",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://apache.org/licenses/LICENSE-1.1",
-        "https://opensource.org/licenses/Apache-1.1"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e84dfafbe6febf84b70de4c3d5c69afc899efa4721d3b0a7cbc6eceddf6d336
+size 339

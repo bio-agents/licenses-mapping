@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/UnixCrypt.html",
-    "licenseId": "UnixCrypt",
-    "name": "UnixCrypt License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://foss.heptapod.net/python-libs/passlib/-/blob/branch/stable/LICENSE#L70",
-        "https://opensource.apple.com/source/JBoss/JBoss-737/jboss-all/jetty/src/main/org/mortbay/util/UnixCrypt.java.auto.html",
-        "https://archive.eclipse.org/jetty/8.0.1.v20110908/xref/org/eclipse/jetty/http/security/UnixCrypt.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4635595df482a77df4d7194c1252c4f7e57413bc7f5961982145fc0bc4e87ae0
+size 566

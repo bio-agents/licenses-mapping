@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Zeeff.html",
-    "licenseId": "Zeeff",
-    "name": "Zeeff License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "ftp://ftp.tin.org/pub/news/utils/newsx/newsx-1.6.tar.gz"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:382b7cfa108b552a3ed9aee310b681734dadb0d92ab2f0d1bbc0440922a0d48f
+size 288

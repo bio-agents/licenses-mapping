@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Hippocratic-2.1.html",
-    "licenseId": "Hippocratic-2.1",
-    "name": "Hippocratic License 2.1",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://firstdonoharm.dev/version/2/1/license.html",
-        "https://github.com/EthicalSource/hippocratic-license/blob/58c0e646d64ff6fbee275bfe2b9492f914e3ab2a/LICENSE.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f482a80e1adf3ba6531303512c5e812765dc5539fd18397c75c77e628c169c15
+size 435

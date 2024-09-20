@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Sendmail-8.23.html",
-    "licenseId": "Sendmail-8.23",
-    "name": "Sendmail License 8.23",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.proofpoint.com/sites/default/files/sendmail-license.pdf",
-        "https://web.archive.org/web/20181003101040/https://www.proofpoint.com/sites/default/files/sendmail-license.pdf"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:68836321209e128716b609cae69bf7d104560ad06c0f78cfb6dbc517bb18f80a
+size 446

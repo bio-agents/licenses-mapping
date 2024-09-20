@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/Unlicense.html",
-    "licenseId": "Unlicense",
-    "name": "The Unlicense",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://unlicense.org/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:702b297afdd2e77e5461d02cc501065e9556fdd6b3ec00a9665267f241b23413
+size 262

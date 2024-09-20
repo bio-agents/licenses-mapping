@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CFITSIO.html",
-    "licenseId": "CFITSIO",
-    "name": "CFITSIO License",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://heasarc.gsfc.nasa.gov/docs/software/fitsio/c/f_user/node9.html"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd7cac330f96bc373506620b9312efe344a43af1e61bd59e2cf5890717c11b49
+size 309

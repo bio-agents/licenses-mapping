@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/RPSL-1.0.html",
-    "licenseId": "RPSL-1.0",
-    "name": "RealNetworks Public Source License v1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://helixcommunity.org/content/rpsl",
-        "https://opensource.org/licenses/RPSL-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9c2b99b51acf8b5e3f30a9356c4d207b63099c3ab1a5e42d71b532e5e4dcff0
+size 355

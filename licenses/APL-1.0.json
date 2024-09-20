@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/APL-1.0.html",
-    "licenseId": "APL-1.0",
-    "name": "Adaptive Public License 1.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/APL-1.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f605489196172898b70373db38f7781a7bdc838848e119accb5e59f93876b7a5
+size 289

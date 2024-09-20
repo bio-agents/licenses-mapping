@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/MPL-2.0-no-copyleft-exception.html",
-    "licenseId": "MPL-2.0-no-copyleft-exception",
-    "name": "Mozilla Public License 2.0 (no copyleft exception)",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.mozilla.org/MPL/2.0/",
-        "https://opensource.org/licenses/MPL-2.0"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3609b1a157cf5a7ee3466fbad73eaa00e99baeeb5561156a817788eb91a3b80
+size 400

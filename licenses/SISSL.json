@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/SISSL.html",
-    "licenseId": "SISSL",
-    "name": "Sun Industry Standards Source License v1.1",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.openoffice.org/licenses/sissl_license.html",
-        "https://opensource.org/licenses/SISSL"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:db0cef111cc9359995660c751f440fad4423438ea16f5b34866385fe447e36b0
+size 363

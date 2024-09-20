@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CC-PDDC.html",
-    "licenseId": "CC-PDDC",
-    "name": "Creative Commons Public Domain Dedication and Certification",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://creativecommons.org/licenses/publicdomain/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:be055b5a6b5bdae8597efc7d7816c4d0c28536ef3905e40c41952aa97682f427
+size 333

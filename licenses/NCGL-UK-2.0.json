@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/NCGL-UK-2.0.html",
-    "licenseId": "NCGL-UK-2.0",
-    "name": "Non-Commercial Government Licence",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b92d85db84d42a6ae058f8c574c4c1ea991d1cdc6a47ac298aca7c68e7d4b834
+size 348

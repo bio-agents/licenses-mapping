@@ -1,14 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CC-BY-NC-SA-3.0.html",
-    "licenseId": "CC-BY-NC-SA-3.0",
-    "name": "Creative Commons Attribution Non Commercial Share Alike 3.0 Unported",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode"
-    ],
-    "synonyms": [
-        "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
-        "Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)"
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:73bbb5debe44ef843690e63409fa6e620786dc0324c21d6e90e88c553466f7a2
+size 528

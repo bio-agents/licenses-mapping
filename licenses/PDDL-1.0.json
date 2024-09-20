@@ -1,12 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/PDDL-1.0.html",
-    "licenseId": "PDDL-1.0",
-    "name": "Open Data Commons Public Domain Dedication & License 1.0",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://opendatacommons.org/licenses/pddl/1.0/",
-        "https://opendatacommons.org/licenses/pddl/"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b19d3521a2d0632129329bcc2eaf2b9f9f3aff86fb674e2d5915a7b084cff796
+size 381

@@ -1,13 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/IEC-Code-Components-EULA.html",
-    "licenseId": "IEC-Code-Components-EULA",
-    "name": "IEC    Code Components End-user licence agreement",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://www.iec.ch/webstore/custserv/pdf/CC-EULA.pdf",
-        "https://www.iec.ch/CCv1",
-        "https://www.iec.ch/copyright"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3f31841cf589512347815661293651bce6db81952efc6368661f4189f73b237
+size 434

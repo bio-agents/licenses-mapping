@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/CC-BY-NC-SA-3.0-IGO.html",
-    "licenseId": "CC-BY-NC-SA-3.0-IGO",
-    "name": "Creative Commons Attribution Non Commercial Share Alike 3.0 IGO",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/legalcode"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:57451799081888ae51cd686de41dd220a629161a45f4fd671f19cb13b1a4c8f1
+size 374

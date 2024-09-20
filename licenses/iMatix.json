@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/iMatix.html",
-    "licenseId": "iMatix",
-    "name": "iMatix Standard Function Library Agreement",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://legacy.imatix.com/html/sfl/sfl4.htm#license"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef69a751664fc7a7daceba0838c17f0d971b5959c956b26a45be53add606507c
+size 314

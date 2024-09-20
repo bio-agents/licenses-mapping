@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/X11-distribute-modifications-variant.html",
-    "licenseId": "X11-distribute-modifications-variant",
-    "name": "X11 License Distribution Modification Variant",
-    "isOsiApproved": false,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://github.com/mirror/ncurses/blob/master/COPYING"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fcb3da018ab611a5e08c0929ffaa977bb42542247411aa339ec9f2a411c41ae
+size 380

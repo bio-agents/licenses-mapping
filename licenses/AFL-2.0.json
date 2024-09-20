@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/AFL-2.0.html",
-    "licenseId": "AFL-2.0",
-    "name": "Academic Free License v2.0",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "http://wayback.archive.org/web/20060924134533/http://www.opensource.org/licenses/afl-2.0.txt"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:41eed64ea3221fd2eb459b01920990512c6961116fc0458253f135931b453a01
+size 341

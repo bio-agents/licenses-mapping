@@ -1,11 +1,3 @@
-{
-    "reference": "https://spdx.org/licenses/BSD-2-Clause-Patent.html",
-    "licenseId": "BSD-2-Clause-Patent",
-    "name": "BSD-2-Clause Plus Patent License",
-    "isOsiApproved": true,
-    "isDeprecatedLicenseId": false,
-    "seeAlso": [
-        "https://opensource.org/licenses/BSDplusPatent"
-    ],
-    "synonyms": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a73b395303be0ad3c3296dd8e1577c8c88a1f5415e438e19f13d35c2dbe5363
+size 324
